@@ -27,6 +27,7 @@ La pantalla de inicio consta de menú global, en la parte superior derecha, se e
 
 * Administrador: Marcos Sepulveda
 * Contraseña:1234
+
 ![image](https://user-images.githubusercontent.com/77336151/146146146-cad1ab4a-c2c0-412c-b57a-42aab701404d.png)
 
 ### _Genera un reporte de la actividad de reservas en los diferentes puntos de interes general_
