@@ -10,7 +10,11 @@ _La aplicación fue pensada para administrar los diferentes espacios del municip
 
 ### Pre-requisitos 📋
 
-* _MYSQL: Importar base de datos de la carpeta:BASE DE DATOS PROYECTO_, 
+* _BASE DE DATOS MYSQL: Importar base de datos: caicetravel02.sql, de la carpeta: BASE DE DATOS PROYECTO en: http://localhost/phpmyadmin/,
+* [Video Importar Base de datos](https://www.youtube.com/watch?v=z5-F9TomceQ) - Instructivo
+* _Host Local en Wamp: Copiar proyecto en la ruta: C:\wamp64\www_,
+* _Host Local en Laragon: Copiar proyecto en la ruta: C:\laragon\www_,
+* _Host Local en Xamp: Copiar proyecto en la ruta: C:\xampp\htdocs_,
 * _PHP 5: o versiones superiores_
 
 ## Pagina web 🔧
