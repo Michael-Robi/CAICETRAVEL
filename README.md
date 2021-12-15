@@ -24,10 +24,7 @@ _Pagina principal_
 
 La pantalla de inicio de la aplicación consta de un bosquejo, en la parte superior derecha se encuentra los botones para poder iniciar en la aplicación, la opcion de ver los productos, iniciar sesión y registrarse, el cual restringe el acceso de los usuarios que no estén registrados en la aplicación, de acuerdo al botón que quiera acceder.
 
-
-```
-Da un ejemplo
-```
+* [Manual de Usuario](https://docs.google.com/document/d/11ug_KFve2_7ij-igToq_wnqk2XA6-jiC/edit?usp=sharing&ouid=117342736453306308633&rtpof=true&sd=true) - En el cual se indica los roles del Administrador y el Usuario
 
 _El mapa de geolocalizan en google maps permite al usuario ver los sitios de interes general_
 
