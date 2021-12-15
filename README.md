@@ -4,7 +4,7 @@ _Proyecto para gestionar el turismo de la region_
 
 ## Comenzando 🚀
 
-_La aplicación fue pensada para administrar los diferentes espacios del municipio de Caicedonia, de tal manera que el propietario de a conocer sus productos a sus clientes o clientes potenciales, las personas podrán conocer los diferentes sitios que se encuentran en su localidad, buscándolos en el mapa, podrán consultar los sitios y los productos que se administran en dichos sitios, se creó un diseño amigable al usuario, cuenta con navegabilidad, usabilidad, interactividad, seguridad, almacenamiento persistente, ayuda global y ayudas contextuales._
+La aplicación fue pensada para administrar los diferentes espacios del municipio de Caicedonia, de tal manera que el propietario de a conocer sus productos a sus clientes o clientes potenciales, las personas podrán conocer los diferentes sitios que se encuentran en su localidad, buscándolos en el mapa, podrán consultar los sitios y los productos que se administran en dichos sitios, se creó un diseño amigable al usuario, cuenta con navegabilidad, usabilidad, interactividad, seguridad, almacenamiento persistente, ayuda global y ayudas contextuales.
 
 * [Manual de Usuario](https://docs.google.com/document/d/11ug_KFve2_7ij-igToq_wnqk2XA6-jiC/edit?usp=sharing&ouid=117342736453306308633&rtpof=true&sd=true) - En el cual se indica los roles del Administrador y el Usuario
 
